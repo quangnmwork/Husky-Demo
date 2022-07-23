@@ -21,7 +21,7 @@ module.exports = {
     // e.g. "@typescript-eslint/explicit-function-return-type": "off",
     'react/react-in-jsx-scope': 'off',
     '@typescript-eslint/no-namespace': 'off',
-
+    '@typescript-eslint/no-explicit-any': 'error',
     '@typescript-eslint/no-non-null-assertion': 'off'
     // 'react/prop-types': 'off'
   }
